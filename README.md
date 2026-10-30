@@ -50,7 +50,7 @@ I am a MERN stack developer who enjoys taking a product from idea to deployment.
 **[Live Demo](https://workpilot-client-mesbahghalib-3393.vercel.app/)** | **[Client Repo](https://github.com/CreativeGhalib/workpilot-client)** | **[Server Repo](https://github.com/CreativeGhalib/workpilot-server)**
 
 <a href="https://workpilot-client-mesbahghalib-3393.vercel.app/">
-  <img src="./assets/project-screenshots/workpilot.png" alt="WorkPilot AI service marketplace homepage" width="100%" />
+  <img src="./assets/project-screenshots/workpilot.png" alt="WorkPilot AI service marketplace homepage" width="45%" />
 </a>
 
 WorkPilot AI is a full-stack marketplace where clients discover service providers, pay through sandbox payment flows, and collaborate through projects and milestones, supported by two agentic AI features.
@@ -71,7 +71,7 @@ WorkPilot AI is a full-stack marketplace where clients discover service provider
 **[Live Demo](https://legalease-sand.vercel.app/)** | **[Client Repo](https://github.com/CreativeGhalib/legalease-client)** | **[Server Repo](https://github.com/CreativeGhalib/legalease-server)**
 
 <a href="https://legalease-sand.vercel.app/">
-  <img src="./assets/project-screenshots/legalease.png" alt="LegalEase legal counsel marketplace homepage" width="100%" />
+  <img src="./assets/project-screenshots/legalease.png" alt="LegalEase legal counsel marketplace homepage" width="45%" />
 </a>
 
 LegalEase is a full-stack marketplace where clients discover published lawyers, submit hiring requests, and complete verified payments while lawyers and administrators manage role-specific workflows.
@@ -92,7 +92,7 @@ LegalEase is a full-stack marketplace where clients discover published lawyers, 
 **[Live Demo](https://pawadopt-client.vercel.app/)** | **[Client Repo](https://github.com/CreativeGhalib/pawadopt-client)** | **[Server Repo](https://github.com/CreativeGhalib/pawadopt-server)**
 
 <a href="https://pawadopt-client.vercel.app/">
-  <img src="./assets/project-screenshots/pawadopt.png" alt="PawAdopt pet adoption platform homepage" width="100%" />
+  <img src="./assets/project-screenshots/pawadopt.png" alt="PawAdopt pet adoption platform homepage" width="45%" />
 </a>
 
 PawAdopt connects prospective adopters with pet owners through a responsive browsing experience and protected adoption workflows.
@@ -113,7 +113,7 @@ PawAdopt connects prospective adopters with pet owners through a responsive brow
 **[Live Demo](https://qurbanihat-assignment-a8.vercel.app/)** | **[Source Code](https://github.com/CreativeGhalib/QurbaniHat)**
 
 <a href="https://qurbanihat-assignment-a8.vercel.app/">
-  <img src="./assets/project-screenshots/qurbanihat.png" alt="QurbaniHat livestock booking marketplace homepage" width="100%" />
+  <img src="./assets/project-screenshots/qurbanihat.png" alt="QurbaniHat livestock booking marketplace homepage" width="45%" />
 </a>
 
 QurbaniHat is a responsive marketplace for exploring Qurbani animals, comparing listing details, and placing authenticated bookings.
